@@ -1,0 +1,14 @@
+{
+  "name": "ko-time-edit",
+  "version": "1.0.0",
+  "description": "Time edit is a knokout component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SHTIKOV",
+  "license": "MIT",
+  "dependencies": {
+    "np": "^6.2.0"
+  }
+}
