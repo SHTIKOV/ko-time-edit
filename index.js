@@ -1,4 +1,4 @@
-/* global ko */
+const ko = require('knockout');
 
 /**
  * Time edit component
