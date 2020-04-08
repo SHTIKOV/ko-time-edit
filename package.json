@@ -4,7 +4,7 @@
   "description": "Time edit is a knokout component.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"WARNING: no test specified\""
   },
   "author": "SHTIKOV",
   "license": "MIT",
