@@ -1,3 +1,5 @@
+/* global ko */
+
 /**
  * Time edit component
  * 
