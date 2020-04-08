@@ -9,6 +9,9 @@
   "author": "SHTIKOV",
   "license": "MIT",
   "dependencies": {
+    "knockout": "^3.5.0"
+  },
+  "devDependencies": {
     "np": "^6.2.0"
   }
 }
